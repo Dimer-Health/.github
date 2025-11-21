@@ -1,2 +1,0 @@
-# .github
-DimerHealth profile repository
